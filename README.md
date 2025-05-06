@@ -1,4 +1,4 @@
-
+This is my part 2 of the the assessment. My website now has css code which makes it more aligned as well as more appealing to the end-user.
  
  
 Contents
