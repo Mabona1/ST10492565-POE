@@ -1,7 +1,8 @@
+This is my part 3 of the assessment, which is basically the last phase. I have implemented some few changes on my website such as adding login credentials in the index page, a contact and services forms and many more. I also implemented javascript in my website for my website to be functional, user-friendly and responsive. I also added a plain text documnt. So now my website consits of html, css, plain text and java scipt.
+
 This is my part 2 of the the assessment. My website now has css code which makes it more aligned as well as more appealing to the end-user.
  
- 
-Contents
+ Contents
 1.	Organisation overview	2
 •	Organisation name	2
 •	History of the organisation	2
